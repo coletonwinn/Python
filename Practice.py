@@ -7,9 +7,11 @@
 #    print(i)
 
 
-print("This is some code")
+blah = [1, 7, 19, 22, 24, 8]
 
-
-print("here is some more code")
-
-print("new")
+for num in blah:
+    if num % 2 == 0:
+        print(f"{num} is even")
+    else:
+        print(f"{num} is odd")
+        
