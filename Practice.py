@@ -11,6 +11,9 @@
 
 #for i in range(len(blah)):
 #    print(f"{i} squared is {blah[i]**2}")
+
+# COUNT DOWN for i in range(0,5,-1):
+
 numbers = [14,2,3,45,5]
 
 def is_odd(numero):
