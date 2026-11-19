@@ -1,0 +1,31 @@
+Park,StateOrStates,Region,EstablishedYear,Acres,AnnualVisitorsThousands,HighestPointFeet,TrailMiles,CampingAvailable,Waterfalls
+Acadia,Maine,Northeast,1919,49071,4000,1530,158,Yes,Yes
+Arches,Utah,Southwest,1929,76679,1500,5653,150,Yes,No
+Bryce Canyon,Utah,Southwest,1928,35835,2100,9115,65,Yes,No
+Cuyahoga Valley,Ohio,Midwest,1974,33000,2600,1225,125,Yes,Yes
+Everglades,Florida,Southeast,1947,1508538,1000,10,156,Yes,Yes
+Grand Canyon,Arizona,Southwest,1919,1217403,6400,8030,595,Yes,No
+Great Smoky Mountains,Tennessee and North Carolina,Southeast,1934,522427,13000,6643,800,Yes,Yes
+Joshua Tree,California,West,1994,795156,3300,5814,800,Yes,No
+Olympic,Washington,West,1938,922651,3500,7980,600,Yes,Yes
+Yellowstone,Wyoming Montana and Idaho,West,1872,2219791,4000,11358,1000,Yes,Yes
+Badlands,South Dakota,Midwest,1978,242756,1200,3247,100,Yes,No
+Big Bend,Texas,Southwest,1944,801163,500,7825,150,Yes,Yes
+Biscayne,Florida,Southeast,1980,172971,700,10,50,Yes,No
+Black Canyon of the Gunnison,Colorado,West,1999,30780,300,8850,50,Yes,No
+Carlsbad Caverns,New Mexico,Southwest,1930,46766,500,6785,75,Yes,No
+Channel Islands,California,West,1980,249561,300,2402,100,Yes,No
+Congaree,South Carolina,Southeast,2003,26546,200,187,30,Yes,Yes
+Crater Lake,Oregon,West,1902,183224,700,8159,100,Yes,No
+Denali,Alaska,West,1917,4740912,600,20310,90,Yes,No
+Death Valley,California,West,1994,3395406,1400,11043,1000,Yes,No
+Dinosaur,Colorado and Utah,West,1915,210844,300,9000,100,Yes,No
+Gates of the Arctic,Alaska,West,1980,7523898,10,9049,0,No,No
+Glacier,Montana,West,1910,1013126,3000,10240,745,Yes,Yes
+Glacier Bay,Alaska,West,1980,3224840,700,15300,20,Yes,Yes
+Grand Teton,Wyoming,West,1929,310044,3500,13775,250,Yes,Yes
+Haleakala,Hawaii,West,1961,33000,900,10023,50,Yes,No
+Hawaii Volcanoes,Hawaii,West,1916,335259,1800,13677,150,Yes,Yes
+Hot Springs,Arkansas,Southeast,1921,5550,1500,1405,35,No,No
+Indiana Dunes,Indiana,Midwest,2019,15349,2000,800,50,Yes,No
+Kings Canyon,California,West,1940,461901,600,14247,450,Yes,Yes
