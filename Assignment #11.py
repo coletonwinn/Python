@@ -1,9 +1,5 @@
 
 import pandas as pd
-
-# VIDEO GAME CATALOG MANAGER
-
-# Read the original CSV file
 games = pd.read_csv("video_games_raw.csv")
 
 print("VIDEO GAME CATALOG MANAGER")
@@ -33,7 +29,7 @@ else:
     # Ask the user for a new status
     new_status = input("\nEnter a new status (Backlog, Playing, Completed, or Dropped): ")
 
-    # Use .at[] to update one specific game's status
+    # Update game's status
     games.at[row_number, "Status"] = new_status
 
     # Add the Recommended column
@@ -51,7 +47,7 @@ else:
     print("\nRecommended Games:")
     print(recommended_games[["Title", "Platform", "Price", "Rating"]])
 
-    # Save the updated catalog to a new CSV file
+    # Save the updated catalog to new CSV
     games.to_csv("video_games_cleaned.csv", index=False)
 
     print("\nThe catalog has been updated.")
